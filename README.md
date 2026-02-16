@@ -130,7 +130,7 @@ Data Science Graduate Student | ML Engineer
 
 - GitHub: [@pradyten](https://github.com/pradyten)
 - LinkedIn: [Pradyumn Tendulkar](https://www.linkedin.com/in/pradyumn-tendulkar)
-- Email: [Your Email]
+- Email: pktendulkar@wpi.edu
 
 ---
 
