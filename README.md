@@ -129,7 +129,7 @@ facial-expression-recognition-cnn-bilstm/
 Data Science Graduate Student | ML Engineer
 
 - GitHub: [@pradyten](https://github.com/pradyten)
-- LinkedIn: [Pradyumn Tendulkar](https://www.linkedin.com/in/pradyumn-tendulkar)
+- LinkedIn: [Pradyumn Tendulkar](https://www.linkedin.com/in/p-tendulkar/)
 - Email: pktendulkar@wpi.edu
 
 ---
